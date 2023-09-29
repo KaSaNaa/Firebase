@@ -59,3 +59,4 @@ getDocs(colRef)
         deleteBookForm.reset()
     })
   })
+  
